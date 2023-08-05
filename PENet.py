@@ -206,7 +206,7 @@ class AE(nn.Module):
 
     def forward(self, x):
         s_x = sobel(x)
-        s_x = self.conv_edge(x)
+        s_x = self.conv_edge(s_x)
 
         res = self.res1(x)
         res = self.dpm(res)
