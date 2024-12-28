@@ -1,6 +1,3 @@
-The Code has not been sorted out. I will sort it out when I have time.
------------------------------------------------------------------------------
-
 2023-04-12 01:56:42,051 - mmdet - INFO - Saving checkpoint at 29 epochs
 2023-04-12 01:57:19,641 - mmdet - INFO - 
 +-----------+------+------+--------+-------+
